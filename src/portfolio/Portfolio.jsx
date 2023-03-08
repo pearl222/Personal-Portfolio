@@ -22,19 +22,7 @@ const Portfolio = ({ toggle }) => {
         quisquam quisquam. Aut maiores Quis qui quasi sunt 33 modi autem id
         commodi galisum et cupiditate ipsa ad quas tempora.{" "}
       </p>
-      <p>
-        Aut nostrum saepe ut deleniti voluptatum ut eaque sint. Nam enim quaerat
-        ut omnis animi ut quibusdam voluptas aut laboriosam aliquid a galisum
-        consequatur. Aut nisi quia quo sunt quibusdam rem harum sapiente est
-        quod voluptate cum aperiam internos sit labore sequi. Ex sint tenetur
-        qui galisum molestias hic quas eveniet ut quisquam illo eos cupiditate
-        beatae. Non eius beatae rem explicabo voluptatem At dolores quis qui
-        distinctio odio non quia omnis aut vero unde aut harum velit. Et rerum
-        libero et doloribus aperiam et explicabo excepturi 33 aperiam laborum At
-        explicabo tenetur sit dolores amet. Quo culpa ipsum sit ipsum Quis eos
-        autem iusto qui amet neque et optio galisum et vitae laudantium. Et
-        quisquam voluptate et quasi autem ex excepturi nisi?{" "}
-      </p>
+   
       <p>
         Et earum impedit quo amet commodi rem omnis quae sit eligendi
         necessitatibus est consequuntur enim ut magni quam hic dolore similique!

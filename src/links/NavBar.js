@@ -1,4 +1,5 @@
 import React from "react";
+import {BsToggleOn} from "react-icons/bs"
 
 const NavBar = ({ toggle, setToggle }) => {
   const changeState = () => {
@@ -24,8 +25,10 @@ const NavBar = ({ toggle, setToggle }) => {
         <li className="mr-5">
           <a href="https://github.com/pearl222">My Projects</a>
         </li>
-        <li className="mr-2 cursor-pointer" onClick={changeState}>
-          Toggle
+        <li className="mr-2 cursor-pointer mt-1" onClick={changeState}>
+        <BsToggleOn />
+
+         
         </li>
       </ul>
     </div>
